@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+}
+img{
+    max-width: 100%;
+}
+
+/* .img-bg{
+    display: none;
+}
+
+.img-sm{
+    display: block;
+} */
+
+/* @media(min-width:598px){
+.img-bg{display: block;}
+.img-sm{display: none;}
+} */
